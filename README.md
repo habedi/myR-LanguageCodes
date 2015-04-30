@@ -1,2 +1,2 @@
 # myR-LanguageCodes
-My effort for bettering my knowlage of R language
+My efforts for bettering my knowlage of R language
