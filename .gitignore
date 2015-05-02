@@ -12,6 +12,9 @@
 vignettes/*.html
 vignettes/*.pdf
 
+# RData files
+*.RData
+
 # temp files
 +#
 *~
