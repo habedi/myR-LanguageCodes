@@ -6,3 +6,4 @@ My efforts for bettering my knowlage of R language
   
     + Pareto Distribution {codes/mePareto.R}
     + Cellular Automata Simulation {codes/Cellular-Automata.R}
+    + 2D Plottting in R {codes/2DPlotting.R}
