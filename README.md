@@ -11,8 +11,11 @@ My efforts for bettering my knowlage of R language
     5 Simple Community Detection (1) {codes/igraph1.R}
     6 Simple Graph Plotting in Igraph (1) {codes/igraph2.R}
     7 Simple PCA in R (1) {codes/PCA1.R}
+	
 
   data-sets :
+  ---
+
     1 Dolphins Social Network (graph) {code/data/dolphins.gml}
     2 Neural network of the nematode C. Elegans (graph) {code/data/celegansneural.gml}
     3 Western States Power Grid (graph) {code/data/power.gml}
