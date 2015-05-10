@@ -16,8 +16,9 @@ My efforts for bettering my knowlage of R language
   data-sets :
   ---
 
-    1 Dolphins Social Network (graph) {code/data/dolphins.gml}
-    2 Neural network of the nematode C. Elegans (graph) {code/data/celegansneural.gml}
-    3 Western States Power Grid (graph) {code/data/power.gml}
+    1 Dolphins Social Network (graph) {codes/data/dolphins.gml}
+    2 Neural network of the nematode C. Elegans (graph) {codes/data/celegansneural.gml}
+    3 Western States Power Grid (graph) {codes/data/power.gml}
+    4 LoK Defiant Wallpaper {codes/data/defiant.png}
     
     
