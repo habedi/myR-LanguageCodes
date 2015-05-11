@@ -19,6 +19,7 @@ My efforts for bettering my knowlage of R language
     1 Dolphins Social Network (graph) {codes/data/dolphins.gml}
     2 Neural network of the nematode C. Elegans (graph) {codes/data/celegansneural.gml}
     3 Western States Power Grid (graph) {codes/data/power.gml}
-    4 LoK Defiant Wallpaper {codes/data/defiant.png}
+    4 LoK Defiant Wallpaper (image) {codes/data/defiant.png}
+    5 IMDB 10K movie ratings {codes/data/10K/*}
     
     
