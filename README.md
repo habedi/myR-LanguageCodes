@@ -11,6 +11,7 @@ My efforts for bettering my knowlage of R language
     5 Simple Community Detection (1) {codes/igraph1.R}
     6 Simple Graph Plotting in Igraph (1) {codes/igraph2.R}
     7 Simple PCA in R (1) {codes/PCA1.R}
+    8 QuickSort in R {codes/QuickSort.R}
 	
 
   data-sets :
