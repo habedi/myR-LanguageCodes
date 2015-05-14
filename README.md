@@ -13,7 +13,7 @@ My efforts for bettering my knowlage of R language
     7 Simple PCA in R (1) {codes/PCA1.R}
     8 QuickSort in R {codes/QuickSort.R}
     9 McCarthy 91 Function in R {codes/McCarthy_fun91.R}
-    10 Centrality measures of graph nodes/edge in R {codes/igraph3.R} 
+    10 Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R} 
 	
 
   data-sets :
