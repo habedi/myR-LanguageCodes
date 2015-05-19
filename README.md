@@ -1,12 +1,14 @@
 # myR-LanguageCodes
 My efforts for bettering my knowlage of R language
-=== 
+ 
+
   
-  ---
+---
   my codes so far:
-  ---
+---
+
   
-1. Pareto Distribution {codes/mePareto.R}
+1. Pareto Distributions {codes/mePareto.R}
 2. Cellular Automata Simulation {codes/Cellular-Automata.R}
 3. 2D Plottting in R (1) {codes/2DPlotting.R}
 4. Simple KMeans Clustering (1) {codes/clustering1.R}
@@ -17,9 +19,11 @@ My efforts for bettering my knowlage of R language
 9. McCarthy 91 Function in R {codes/McCarthy_fun91.R}
 10. Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R} 
 
-  ---
+
+---
   data-sets:
-  ---
+---
+
 
 1. Dolphins Social Network (graph) {codes/data/dolphins.gml}
 2. Neural network of the nematode C. Elegans (graph) {codes/data/celegansneural.gml}
