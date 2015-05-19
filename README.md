@@ -1,5 +1,6 @@
 # myR-LanguageCodes
 My efforts for bettering my knowlage of R language
+=== 
   
   ---
   my codes so far:
@@ -17,7 +18,7 @@ My efforts for bettering my knowlage of R language
 10. Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R} 
 
   ---
-  data-sets :
+  data-sets:
   ---
 
 1. Dolphins Social Network (graph) {codes/data/dolphins.gml}
