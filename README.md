@@ -30,5 +30,7 @@ My efforts for bettering my knowlage of R language
 3. Western States Power Grid (graph) {codes/data/power.gml}
 4. LoK Defiant Wallpaper (image) {codes/data/defiant.png}
 5. IMDB 10K movie ratings {codes/data/10K/*}
+6. SNAP DBLP graph degree distribution of nodes {codes/data/dblp.degdis}
+
     
     
