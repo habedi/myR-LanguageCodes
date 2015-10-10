@@ -1,13 +1,9 @@
 # myR-LanguageCodes
 My efforts for bettering my knowlage of R language
- 
-
-  
 ---
-  my codes so far:
+  My codes so far:
 ---
 
-  
 1. Pareto Distributions {codes/mePareto.R}
 2. Cellular Automata Simulation {codes/Cellular-Automata.R}
 3. 2D Plottting in R (1) {codes/2DPlotting.R}
@@ -17,13 +13,12 @@ My efforts for bettering my knowlage of R language
 7. Simple PCA in R (1) {codes/PCA1.R}
 8. QuickSort in R {codes/QuickSort.R}
 9. McCarthy 91 Function in R {codes/McCarthy_fun91.R}
-10. Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R} 
-
+10. Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R}
+11. Querying Twitter in R {codes/Tweet-Harvester.R}
 
 ---
-  data-sets:
+  Datasets:
 ---
-
 
 1. Dolphins Social Network (graph) {codes/data/dolphins.gml}
 2. Neural network of the nematode C. Elegans (graph) {codes/data/celegansneural.gml}
@@ -31,6 +26,3 @@ My efforts for bettering my knowlage of R language
 4. LoK Defiant Wallpaper (image) {codes/data/defiant.png}
 5. IMDB 10K movie ratings {codes/data/10K/*}
 6. SNAP DBLP graph degree distribution of nodes {codes/data/dblp.degdis}
-
-    
-    
