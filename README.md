@@ -15,6 +15,8 @@ My efforts for bettering my knowlage of R language
 9. McCarthy 91 Function in R {codes/McCarthy_fun91.R}
 10. Calculating centrality measures for a graph's nodes/edges in R {codes/igraph3.R}
 11. Querying Twitter in R {codes/Tweet-Harvester.R}
+12. Standard Statistics in R {codes/SimpleStats.R}
+13. Plot lines to show trends {codes/lineplots.R}
 
 ---
   Datasets:
@@ -26,3 +28,5 @@ My efforts for bettering my knowlage of R language
 4. LoK Defiant Wallpaper (image) {codes/data/defiant.png}
 5. IMDB 10K movie ratings {codes/data/10K/*}
 6. SNAP DBLP graph degree distribution of nodes {codes/data/dblp.degdis}
+7. Seismic activity dataset for a week period of time {codes/data/Seismic data.csv}
+8. The data for reduction of edges as we remove the lighter nodes {codes/data/SHRINKING-TREND1.csv}

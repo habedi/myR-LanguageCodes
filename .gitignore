@@ -18,3 +18,7 @@ vignettes/*.pdf
 # temp files
 +#
 *~
+
+# exluding ...
+*.eps
+*.tex

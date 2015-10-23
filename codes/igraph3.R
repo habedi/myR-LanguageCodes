@@ -17,6 +17,8 @@ print("everything is ok!, i create dthe graph, what now?!")
 file <- 'data/dolphins.gml'
 g <- read.graph(file=file, format = c("gml"))
 
+plot(g)
+
 # calculating edge and node centralities of graph
 ebc <- edge.betweenness(g, directed = TRUE)
 nbc <- betweenness(g, directed = TRUE)
