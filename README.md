@@ -1,6 +1,9 @@
 # myR-LanguageCodes
 My efforts for bettering my knowlage of R language
 ---
+
+[![GitHub issues](https://img.shields.io/github/issues/habedi/myR-LanguageCodes.svg)](https://github.com/habedi/myR-LanguageCodes/issues)	[![GitHub forks](https://img.shields.io/github/forks/habedi/myR-LanguageCodes.svg)](https://github.com/habedi/myR-LanguageCodes/network)	[![GitHub stars](https://img.shields.io/github/stars/habedi/myR-LanguageCodes.svg)](https://github.com/habedi/myR-LanguageCodes/stargazers)	[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://raw.githubusercontent.com/habedi/myR-LanguageCodes/master/LICENSE)
+
   My codes so far:
 ---
 
