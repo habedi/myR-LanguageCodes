@@ -1,4 +1,4 @@
-# myR-LanguageCodes
+# My R Codes
 My efforts for bettering my knowlage of R language
 ---
 
